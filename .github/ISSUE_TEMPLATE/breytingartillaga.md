@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-*Vinsamlega fyllið út í eftirfarandi fyrirsagnir í samræmi við skáletraðar skýringar. Það má eyða skýringunum en vinsamlega haldið fyrirsögnunum.*
+*Vinsamlega fyllið út í eftirfarandi fyrirsagnir (##) í samræmi við skáletraðar skýringar. Það má eyða skýringunum en vinsamlega haldið fyrirsögnunum.*
 
 ## Rökstudd lýsing á vandamáli
 *Stutt og rökstudd lýsing á því sem breytingunni er ætlað að leysa, hvort sem það er lagfæring á villu eða viðbætur sem styðja við ný viðskiptatilvik.*
