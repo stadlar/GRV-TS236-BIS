@@ -1,4 +1,4 @@
-# GRV-TS236-BIS
+# GRV — TS 236-BIS
 Þetta kóðasafn inniheldur tækniforskrift fyrir rafrænan reikning.
 
 ## Breytingarsaga
